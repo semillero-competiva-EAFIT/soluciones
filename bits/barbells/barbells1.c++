@@ -1,4 +1,8 @@
-/*https://codeforces.com/gym/101291*/
+/*
+https://codeforces.com/gym/101291
+por simon fallon
+https://github.com/simonfallon
+*/
 #include <bits/stdc++.h>
 #define forn(i,n) for(int i=0; i< (int)n; ++i)
 #define fore(i,l,r) for(int i=(int)l; i<= (int)r; ++i)
